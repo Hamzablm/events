@@ -5,6 +5,7 @@ Sessions:
 - [[#Java ❤️ AWS|Java ❤️ AWS]]
 - [[#Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements|Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements]]
 
+
 ## Explorez l'AI generative multimodale avec Claude 3 sur Amazon Bedrock
 **by Taha Haoulani, AWS | Paul Devillers, AWS** 
 
