@@ -66,7 +66,7 @@ Code Written in Java 8
 ![CleanShot 2024-04-05 at 11.37.35@2x.png](images/CleanShot%202024-04-05%20at%2011.37.35@2x.png)
 
 ![CleanShot 2024-04-05 at 11.37.47@2x.png](images/CleanShot%202024-04-05%20at%2011.37.47@2x.png)
-
+[AWS Lambda Workshop](https://catalog.workshops.aws/java-on-aws-lambda) 
 ## Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements
 ![CleanShot 2024-04-05 at 11.38.26@2x.png](images/CleanShot%202024-04-05%20at%2011.38.26@2x.png)
 ![CleanShot 2024-04-05 at 11.38.38@2x.png](images/CleanShot%202024-04-05%20at%2011.38.38@2x.png)
@@ -76,9 +76,4 @@ Code Written in Java 8
 
 ![CleanShot 2024-04-05 at 11.39.33@2x.png](images/CleanShot%202024-04-05%20at%2011.39.33@2x.png)
 
-
-
-
-
-
-
+[CodeWhisperer Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US)
