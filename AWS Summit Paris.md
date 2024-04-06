@@ -1,10 +1,9 @@
 The following are notes from the sessions I attended at the [AWS Summit in Paris](https://aws.amazon.com/fr/events/summits/emea/paris/).
 
 Sessions:
-- [[#Explorez l'AI generative multimodale avec Claude 3 sur Amazon Bedrock|Explorez l'AI generative multimodale avec Claude 3 sur Amazon Bedrock]]
-- [[#Java ❤️ AWS|Java ❤️ AWS]]
-- [[#Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements|Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements]]
-
+- [Explorez l'AI generative multimodale avec Claude 3 sur Amazon Bedrock](#explorez-lai-generative-multimodale-avec-claude-3-sur-amazon-bedrock)
+- [Java ❤️ AWS](#java--aws)
+- [Le développeur augmenté : utilisez l’IA générative pour accélérer vos développements](#le-développeur-augmenté--utilisez-lia-générative-pour-accélérer-vos-développements)
 
 ## Explorez l'AI generative multimodale avec Claude 3 sur Amazon Bedrock
 **by Taha Haoulani, AWS | Paul Devillers, AWS** 
